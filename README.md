@@ -21,8 +21,9 @@ Invoice App API is a RESTful API designed for managing invoices. It enables user
 ### Requirements
 
 1. Node.js (>=14.17.0)
-2. MongoDB (>=5.0.0)
+2. MongoDB (>=5.0.0) for Data Storage 
 3. Express.js (>=4.17.1)
+4. cloudinary (>=2.5.1)  for Image Storage
 
 ## Usage
 
