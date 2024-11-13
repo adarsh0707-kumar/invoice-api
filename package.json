@@ -24,7 +24,10 @@
   },
   "homepage": "https://github.com/adarsh0707-kumar/invoice-api#readme",
   "dependencies": {
+    "body-parser": "^1.20.3",
     "cloudinary": "^2.5.1",
+    "cors": "^2.8.5",
+    "mongoose": "^8.8.1",
     "nodemon": "^3.1.7"
   }
 }

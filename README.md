@@ -51,7 +51,7 @@ http://localhost:3000/api-docs
 
 ### License
 
-MIT License
+ISC License
 
 ## Authors
 
