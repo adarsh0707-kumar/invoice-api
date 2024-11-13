@@ -1,32 +1,32 @@
 # Invoice App API
 
-# Description
+### Description
 
 Invoice App API is a RESTful API designed for managing invoices. It enables users to create, update, delete and view invoices. Built with Node.js, Express.js and MongoDB.
 
-# Installation
+### Installation
 
 1. Clone repository: `git clone (link unavailable)
 2. Install dependencies: npm install
 3. Start server: npm start
 4. Access API documentation: http://localhost:3000/api-docs
 
-# Features
+### Features
 
 1. User Authentication: Register, login, and password reset
 2. Invoice Management: Create, update, delete, view invoices
 3. Client Management: Manage client information
 4. Payment Tracking: Record payments
 
-# Requirements
+### Requirements
 
 1. Node.js (>=14.17.0)
 2. MongoDB (>=5.0.0)
 3. Express.js (>=4.17.1)
 
-# Usage
+## Usage
 
-# API Endpoints
+### API Endpoints
 
 1. POST /register: Register new user
 2. POST /login: Login existing user
@@ -36,11 +36,11 @@ Invoice App API is a RESTful API designed for managing invoices. It enables user
 6. PATCH /invoices/:id: Update invoice
 7. DELETE /invoices/:id: Delete invoice
 
-API Documentation
+* API Documentation
 
 http://localhost:3000/api-docs
 
-# Contributing
+### Contributing
 
 1. Fork repository
 2. Create feature branch
@@ -48,22 +48,22 @@ http://localhost:3000/api-docs
 4. Push changes
 5. Submit pull request
 
-# License
+### License
 
 MIT License
 
-# Authors
+## Authors
 
-your-website-url - [your-email@example.com]
+My-website-url/ Email - [iak101205@gmail.com]
 
 
 
-# API Documentation Tools
+### API Documentation Tools
 
 1. Swagger/OpenAPI (API documentation)
 2. Postman (API testing)
 
-# Commit Message Guidelines
+### Commit Message Guidelines
 
 1. Use imperative mood (e.g., "Fix bug")
 2. Keep messages concise (<50 characters)
